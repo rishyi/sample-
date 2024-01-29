@@ -4,7 +4,9 @@ class Main {
     void camara(){
 
     }
+    void call(){
 
+    }
 }
 
 class Name{
