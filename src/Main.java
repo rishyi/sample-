@@ -1,9 +1,17 @@
 class Main {
     void phone(){
-        System.out.println("samsung");
-        System.out.println("samsung");
-        System.out.println("samsung");
-        System.out.println("samsung");
-        System.out.println("samsung");
     }
+    void camara(){
+
+    }
+    void call(){
+
+    }
+}
+
+class Name{
+    private String first;
+    private String srcond;
+    private  String last;
+
 }
